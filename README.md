@@ -8,6 +8,10 @@
 
 - 🌱 I’m currently learning **React/Next.js Node.js ReactNative**
 
+- ## ✨ **My Discord** <br>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1234552086499430444)](https://discord.com/users/1234552086499430444)
+
 - 📫 How to reach me **discord.gg/hardzy**
 
 <h3 align="left">Languages and Tools:</h3>
