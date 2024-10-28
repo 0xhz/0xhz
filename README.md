@@ -6,4 +6,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1234552086499430444)](https://discord.com/users/1234552086499430444)
 
-- 📫 How to reach me **discord.gg/radiantcommunity**
+- 📫 How to reach me **discord.gg/scz**
